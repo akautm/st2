@@ -1,0 +1,138 @@
+========================
+unclassified
+========================
+
+未分類なもの、まぁそのうち・・
+
+- `DCPU-16 <https://github.com/theadamlt/Sublime-DCPU-16>`_
+- `Elixir <https://github.com/rodrigoflores/elixir-sublimetext>`_
+- `ESP (EcmaScript Pages) Edit Mode <https://github.com/balazstth/subl-esp>`_
+- `Eval Sel <https://github.com/lvkun/eval_sel>`_
+- `ExportHtml <https://github.com/facelessuser/ExportHtml>`_
+- `ExpressionEngine <https://github.com/Etsur/EE-ST2>`_
+- `FarCry <https://github.com/seancoyne/farcry-sublimetext>`_
+- `Format SQL <https://github.com/freewizard/SublimeFormatSQL>`_
+- `Gaelyk <https://github.com/SublimeText/Gaelyk>`_
+- `GMod Lua <http://www.facepunch.com/threads/1038951>`_
+- `Go Build <https://github.com/cthackers/SublimeGoBuild>`_
+- `GoSublime <https://github.com/DisposaBoy/GoSublime>`_
+- `Guard <https://github.com/cyphactor/sublime_guard>`_
+- `Hasher <http://dangelov.com/>`_
+- `hlsl <https://github.com/wpp1983/hlsl>`_
+- `IcedCoffeeScript <https://github.com/dhoelzgen/iced-coffee-script-tmbundle>`_
+- `Idoc <https://github.com/tstirrat/Idoc-sublime>`_
+- `ImageMagick <https://github.com/Kentzo/SublimeMagick>`_
+- `Inc-Dec-Value <https://github.com/rmaksim/Sublime-Text-2-Inc-Dec-Value>`_
+- `Inline Calculator <http://sahibalejandro.com/>`_
+- `InputHelper <https://github.com/xgenvn/InputHelper>`_
+- `Insert Nums <https://bitbucket.org/markstahler/insert-nums>`_
+- `InsertDate <https://github.com/FichteFoll/sublimetext-insertdate>`_
+- `Jasmine <http://pivotallabs.com/>`_
+- `Jinja2 <https://github.com/mitsuhiko/jinja2-tmbundle>`_
+- `KnowledgeBase <http://kb.sublimetext.info/>`_
+- `Kohana <https://github.com/Zeelot/sublime-kohana>`_
+- `Laravel Snippets <http://laravel.com/>`_
+- `Laravel-Blade <https://github.com/Medalink/Laravel-Blade>`_
+- `Lithium Snippets <https://github.com/fitzagard/li3_sublime>`_
+- `LoremIpsum <https://github.com/billymoon/LoremIpsum>`_
+- `LoremPixel <https://github.com/outer-edge/SublimeLoremPixel>`_
+- `MagentoIntel <http://jotson.github.com/SublimeMagentoIntel>`_
+- `MakeExecutable <https://github.com/cockscomb/SublimeMakeExecutable>`_
+- `Mako <https://github.com/marconi/mako-tmbundle>`_
+- `MarkAndMove <https://github.com/colinta/SublimeMarkAndMove>`_
+- `Mason <https://github.com/fmaj7/Mason>`_
+- `Maven <https://github.com/nlloyd/SublimeMaven>`_
+- `Meta <https://github.com/darinmorrison/sublime-meta>`_
+- `Modific <https://github.com/gornostal/Modific>`_
+- `MODx Revolution Snippets <https://github.com/silentworks/modx-sublimetext-2>`_
+- `Mojolicious <http://wbond.net/sublime_packages/Mojolicious>`_
+- `Moo <https://github.com/maltize/sublime-text-2-moo>`_
+- `Mote <https://github.com/SublimeText/Mote>`_
+- `MXUnit <http://mxunit.org/>`_
+- `NaturalDocs <http://wbond.net/sublime_packages/NaturalDocs>`_
+- `NESASM <https://github.com/klaussilveira/SublimeNESASM>`_
+- `Nette <https://github.com/Michal-Mikolas/Nette-package-for-Sublime-Text-2>`_
+- `nginx <https://github.com/kvs/ST2Nginx>`_
+- `NSIS <https://github.com/SublimeText/NSIS>`_
+- `objc .strings syntax language <https://github.com/PaNaVTEC/Objc-Strings-Syntax-Language>`_
+- `OpenEdge ABL <https://github.com/ElPapaPollo/Sublime-Text-2-OpenEdge-ABL>`_
+- `Parallel Builder <https://github.com/GianlucaGuarini/SublimeText2-Parallel-Builder-Plugin>`_
+- `Perforce <http://www.ericmartel.com/sublime-text-2-perforce-plugin/>`_
+- `Placeholders <https://github.com/mrmartineau/Placeholders>`_
+- `Pman <http://benmatselby.github.com/sublime-pman/>`_
+- `PowerPaste <https://github.com/tylerclendenin/Sublime-PowerPaste>`_
+- `Prefixr <http://wbond.net/sublime_packages/prefixr>`_
+- `Prevu <https://github.com/Nijikokun/Prevu>`_
+- `Processing <https://github.com/b-g/processing-sublime>`_
+- `Prolog <https://github.com/alnkpa/sublimeprolog>`_
+- `Rosetta Code Snippets <https://github.com/trishume/Sublime-Rosetta-Get>`_
+- `SaneSnippets <https://github.com/bobthecow/sublime-sane-snippets>`_
+- `Sass <https://github.com/nathos/sass-textmate-bundle>`_
+- `ScalaTest <https://github.com/patgannon/sublimetext-scalatest>`_
+- `ScopeHunter <https://github.com/facelessuser/ScopeHunter>`_
+- `ShaderLanguages <https://bitbucket.org/asmodai/shaderlanguages>`_
+- `Shell Turtlestein <https://github.com/misfo/Shell-Turtlestein>`_
+- `Signatori <https://github.com/rockerest/Signatori>`_
+- `SimpleClone <https://github.com/mikefowler/simple-clone>`_
+- `SimpleMovements <https://github.com/colinta/SublimeSimpleMovements>`_
+- `SimpleSync <https://github.com/tnhu/SimpleSync>`_
+- `Smart Match <https://github.com/ccampbell/sublime-smart-match>`_
+- `Snipt.net <https://github.com/Taecho/Sublime-Snipt>`_
+- `Sublimation <https://github.com/NorthIsUp/Sublimation>`_
+- `Sublime TFS <https://bitbucket.org/CDuke/sublime-tfs>`_
+- `Sublime V8 <https://github.com/akira-cn/sublime-v8>`_
+- `sublime-clearcase <https://github.com/rjcoelho/sublime-clearcase>`_
+- `sublime-closure-linter <https://github.com/fbzhong/sublime-closure-linter>`_
+- `sublime-csspecific <http://spadgos.github.com/blog/2011/12/01/csspecific-plugin-for-sublimetext/>`_
+- `sublime-dpaste <https://github.com/brianriley/sublime-dpaste>`_
+- `Sublime-HTMLPrettify <http://twitter.com/victorporof>`_
+- `sublime-MuPAD <https://github.com/ccreutzig/sublime-MuPAD>`_
+- `sublime-symfony <https://github.com/nucleartux/sublime-symfony>`_
+- `SublimeAlternate <https://github.com/timonwong/SublimeAlternate>`_
+- `SublimeBufmod <https://github.com/minism/SublimeBufmod>`_
+- `SublimeClarion <https://github.com/fushnisoft/SublimeClarion>`_
+- `SublimeCMD <https://github.com/SublimeText/SublimeCMD>`_
+- `SublimeDancer <http://ky6uk.org/>`_
+- `SublimeEvernote <https://github.com/jamiesun/SublimeEvernote>`_
+- `SublimeExternalCommand <https://github.com/technocoreai/SublimeExternalCommand>`_
+- `SublimeGDB <https://github.com/quarnster/SublimeGDB>`_
+- `SublimeHandcraft <https://github.com/remcoder/SublimeHandcraft>`_
+- `SublimeLove <http://love2d.org/>`_
+- `SublimeManpage <https://github.com/apophys/SublimeManpage>`_
+- `SublimePaster <https://github.com/robcowie/SublimePaster>`_
+- `SublimePeek <https://github.com/jlegewie/SublimePeek>`_
+- `SublimePeek-R-help <https://github.com/jlegewie/SublimePeek-R-help>`_
+- `SublimeREPL <https://github.com/wuub/SublimeREPL>`_
+- `SublimErl <https://github.com/ostinelli/SublimErl>`_
+- `SublimeServer <https://github.com/learning/SublimeServer>`_
+- `SublimeTalkincode <http://www.talkincode.org/>`_
+- `Sublimipsum <https://github.com/cyrilf7/Sublimipsum>`_
+- `sublove2d <https://github.com/mrcharles/sublove2d>`_
+- `Surround Code with Snippets <https://github.com/a-sk/SublimeSurroundWithSnippet>`_
+- `Sweyla's Color Theme Generator <https://bitbucket.org/cryzed/sweylas-color-theme-generator>`_
+- `Tabright <https://github.com/stylishmedia/SublimeText-Tabright>`_
+- `Tabular <https://github.com/a-sk/SublimeTabular>`_
+- `Task <http://blog.samsonis.me/2012/02/introducing-sublimetask-gtd/>`_
+- `TestChooser <https://github.com/CraigWilliams/TestChooser>`_
+- `Text Reader <https://github.com/jedy/SublimeReader>`_
+- `TextileBuild <https://github.com/Xkeeper/SublimeTextileBuild>`_
+- `TidyTabs <https://github.com/bradleyboy/TidyTabs-Sublime>`_
+- `Titanium API Search <https://github.com/joseitinerarium/ST2-TiSearch>`_
+- `Tradsim <https://github.com/erinata/SublimeTradsim>`_
+- `UberSelection <https://github.com/SublimeText/UberSelection>`_
+- `Unicode Character Highlighter <https://github.com/possan/sublime_unicode_nbsp>`_
+- `Vlt <https://github.com/tomalec/Sublime-Text-2-Vlt-Plugin>`_
+- `Wiki <https://github.com/PogiNate/SublimeWiki>`_
+- `WinMerge <https://github.com/SublimeText/WinMerge>`_
+- `Wrap Plus <https://github.com/ehuss/Sublime-Wrap-Plus>`_
+- `X to Y <https://github.com/superguigui/xtoy>`_
+- `Xdebug <https://github.com/Kindari/SublimeXdebug>`_
+- `xml-guesser <https://github.com/CrypticTemple/sublime-xml-guesser>`_
+- `XQuery <https://github.com/PogiNate/XQuery-Sublime>`_
+- `Yii Framework Snippets <https://github.com/dexnode/sublime-yii-snippets>`_
+- `YUI Compressor <https://github.com/leon/YUI-Compressor>`_
+- `Zap Gremlins <http://www.snapshotgroup.com/>`_
+- `zenburn <http://echonull.colinta.com/null/you-probably-googled-zenburn-textmate/>`_
+- `Zurb Foundation Snippets <https://github.com/liamr/Zurb-Foundation-Textmate-Bundle>`_
+
+
